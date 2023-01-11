@@ -1,5 +1,5 @@
-name: Bug-report
-description: File a bug/issue report
+name: Баг-репорт
+description: Создание тикета о баге или ошибке
 labels: ["bug"]
 body:
   - type: markdown
