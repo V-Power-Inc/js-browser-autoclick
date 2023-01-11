@@ -4,6 +4,9 @@
   js-browser-autoclick
 </h1>
 
+![JS](https://img.shields.io/badge/language-JS-blue)
+![Contributors](https://img.shields.io/github/contributors/V-Power-Inc/js-browser-autoclick?color=light)
+
 Это небольшое JavaScript приложение для консольного ввода в браузер, которое позволяет нажимать на некоторый элемент на странице по имени класса, через определенное количество времени (По дефолту 2 секунды).
 
 Очень полезное решение, когда на странице присутствует проверка активности пользователя.
@@ -67,3 +70,13 @@ https://github.com/V-Power-Inc/js-browser-autoclick/blob/master/solution.js
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+## Contributors 🧑‍🤝‍🧑
+
+Thank you to all of our awesome contributors! ❤️
+
+<a href="https://github.com/V-Power-Inc/js-browser-autoclick/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=V-Power-Inc/js-browser-autoclick" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
