@@ -1,4 +1,4 @@
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100" align="right"/>
+<img src="https://raw.githubusercontent.com/V-Power-Inc/js-browser-autoclick/master/common/images/its-fine-dog-fine.gif" width="100" align="right"/>
 
 <h1>
   js-browser-autoclick
