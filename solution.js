@@ -2,7 +2,10 @@
 setInterval(() => {
 
     /** Selectors or id which we need for click */
-    var nodes = document.getElementsByClassName('js-title-edit-button-1');
+    var elements_by_class = document.getElementsByClassName('js-title-edit-button-1');
+
+    /** Selector of element with id (Use if selector is id) */
+    var element_by_id = document.getElementById('elem-id');
 
     /** JS click event */
     var clickEvent = new MouseEvent("click", {
@@ -14,10 +17,10 @@ setInterval(() => {
     /** Try to click selector - if its not exist's, we logging in the catch block */
     try {
         /** Selector which we want to be clicked */
-        nodes[0].dispatchEvent(clickEvent);
+        elements_by_class[0].dispatchEvent(clickEvent);
 
         /** Console output */
-        console.log('Клик 11');
+        console.log('Element being clicked');
     } catch (TypeError) {
 
         /** Catch type error if element not exists */

@@ -39,7 +39,7 @@ To use the script, you need to open the browser console, you can do this through
 And add it to the next section:
 
 `
-var nodes = document.getElementsByClassName('js-title-edit-button-1');
+var elements_by_class = document.getElementsByClassName('js-title-edit-button-1');
 `
 
 Replacing this text with **js-title-edit-button-1**
@@ -52,8 +52,6 @@ If the time needs to be changed, you need to change this section of code:
 `
 
 Replacing 2000 with another number (Do not forget that 2000 in this case means 2 seconds)
-
-
 
 ## Tested in browsers / Протестировано в браузерах
 <div>
