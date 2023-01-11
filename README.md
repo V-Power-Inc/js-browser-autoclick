@@ -13,7 +13,7 @@ This is a small JavaScript application for console input to the browser that all
 A very useful solution when there is a user activity check on the page.
 
 
-## RU - Как использовать 🌏
+## RU 🌏 - Как использовать 
 
 Для использования скрипта, необходимо открыть консоль браузера, сделать это можно через F12 или просмотр исходного кода, затем необходимо получить селектор нужного нам блока или его ID.
 И прописать его в следующую секцию:
@@ -33,10 +33,7 @@ var nodes = document.getElementsByClassName('js-title-edit-button-1');
 
 Заменив при этом 2000 на другое число (Не забываем что 2000 в данном случае означает 2 секунды)
 
-## EN 🌎
-
-
-## EN - How to use
+## EN 🌎 - How to use
 
 To use the script, you need to open the browser console, you can do this through F12 or view the source code, then you need to get the selector of the block we need or its ID.
 And add it to the next section:
