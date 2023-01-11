@@ -1,5 +1,5 @@
 name: Улучшение
-description: Suggest a new feature or enhancement
+description: Идеи по улучшению проекта
 labels: ["enhancement"]
 body:
   - type: markdown
