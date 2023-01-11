@@ -18,7 +18,7 @@ A very useful solution when there is a user activity check on the page.
 И прописать его в следующую секцию:
 
 `
-var nodes = document.getElementsByClassName('js-title-edit-button-1');
+var elements_by_class = document.getElementsByClassName('js-title-edit-button-1');
 `
 
 Заменив при этом вот этот текст **js-title-edit-button-1**
