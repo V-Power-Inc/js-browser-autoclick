@@ -58,7 +58,8 @@ https://github.com/V-Power-Inc/js-browser-autoclick/blob/master/solution.js
 
 ## Tested in browsers / Протестировано в браузерах
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/V-Power-Inc/js-browser-autoclick/master/common/images/browsers/edge.jpg" title="Edge" alt="Edge" width="40" height="40"/>&nbsp;
 </div>
 
 
