@@ -12,7 +12,6 @@ This is a small JavaScript application for console input to the browser that all
 
 A very useful solution when there is a user activity check on the page.
 
-
 ## RU 🌏 - Как использовать 
 
 Для использования скрипта, необходимо открыть консоль браузера, сделать это можно через F12 или просмотр исходного кода, затем необходимо получить селектор нужного нам блока или его ID.
@@ -52,6 +51,10 @@ If the time needs to be changed, you need to change this section of code:
 `
 
 Replacing 2000 with another number (Do not forget that 2000 in this case means 2 seconds)
+
+## Исходник / Source
+
+https://github.com/V-Power-Inc/js-browser-autoclick/blob/master/solution.js
 
 ## Tested in browsers / Протестировано в браузерах
 <div>
