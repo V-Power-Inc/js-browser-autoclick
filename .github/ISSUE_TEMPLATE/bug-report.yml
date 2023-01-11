@@ -1,4 +1,4 @@
-name: Баг репорт
+name: Bug-report
 description: File a bug/issue report
 labels: ["bug"]
 body:
