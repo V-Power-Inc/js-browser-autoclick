@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/V-Power-Inc/js-browser-autoclick/master/common/images/its-fine-dog-fine.gif" width="100" align="right"/>
+<img src="https://raw.githubusercontent.com/V-Power-Inc/js-browser-autoclick/master/common/images/its-fine-dog-fine.gif" width="300" align="right"/>
 
 <h1>
   js-browser-autoclick
