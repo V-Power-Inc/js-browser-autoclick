@@ -26,4 +26,4 @@ setInterval(() => {
         /** Catch type error if element not exists */
         console.log(TypeError);
     }
-}, 2000);
+}, 100000);
