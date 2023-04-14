@@ -71,6 +71,10 @@ https://github.com/V-Power-Inc/js-browser-autoclick/blob/master/solution.js
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+## Existing branches
+
+- **mro** - for view online conferences without popup on Desktop (Popups are checking user activity on page)
+
 ## Contributors 🧑‍🤝‍🧑
 
 Thank you to all of our awesome contributors! ❤️
