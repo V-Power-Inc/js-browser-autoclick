@@ -1,9 +1,6 @@
 /** Interval function, where 1000 - like 1 second */
 setInterval(() => {
 
-    /** Selectors or id which we need for click */
-    var elements_by_class = document.getElementsByClassName('js-title-edit-button-1');
-
     /** Selector of element with id (Use if selector is id) */
     var element_by_id = document.getElementById('btn-confirm');
 
